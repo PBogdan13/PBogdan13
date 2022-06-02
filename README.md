@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PBogdan13
-- 👀 I’m interested in 
+- 👀 I’m interested in : python development tools,artificial intelligence with python, web development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Scoala Informala de IT,where I finished the python course
+
 - 📫 How to reach me ...
 
 <!---
